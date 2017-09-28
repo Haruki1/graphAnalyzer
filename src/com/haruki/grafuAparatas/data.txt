@@ -1,0 +1,12 @@
+q0 4 entry e q2 e q1 a q4 c q0
+q1 2 none b q2 b q5
+q2 1 none e q6
+q3 1 none a q1
+q4 2 exit a q6 a q7
+q5 3 exit c q3 a q0 c q5
+q6 5 exit e q1 c q0 c q5 b q3 a q6
+q7 2 exit a q5 a q9
+q8 2 exit a q4 a q10
+q9 0 exit
+q10 0 exit
+q11 2 none a q2 e q0
